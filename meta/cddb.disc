@@ -1,0 +1,314 @@
+# xmcd CD database file
+#
+# Track frame offsets:
+#	150
+#	906
+#	2091
+#	3243
+#	4389
+#	5272
+#	6790
+#	7513
+#	9272
+#	10388
+#	11243
+#	12281
+#	13880
+#	15599
+#	16761
+#	17526
+#	18900
+#	19800
+#	20532
+#	21324
+#	23067
+#	23946
+#	24750
+#	26794
+#	27559
+#	29123
+#	29861
+#	30626
+#	31706
+#	33078
+#	34062
+#	35181
+#	35949
+#	36729
+#	37416
+#	38218
+#	43229
+#	44924
+#	45705
+#	46401
+#	47520
+#	49500
+#	51846
+#	53016
+#	54828
+#	55758
+#	56574
+#	57567
+#	59815
+#	61087
+#	62264
+#	64379
+#	65538
+#	68332
+#	69206
+#	72491
+#	73380
+#	74640
+#	76534
+#	77476
+#	78544
+#	80261
+#	80990
+#	81894
+#	85078
+#	86263
+#	87035
+#	88757
+#	90890
+#	91559
+#	92237
+#	93467
+#	95216
+#	96389
+#	97716
+#	99450
+#	101316
+#	102456
+#	104310
+#	105096
+#	106060
+#	107044
+#	108119
+#	109097
+#	109937
+#	111110
+#	112223
+#	117770
+#	118883
+#	119772
+#	120657
+#	122349
+#	125356
+#	126754
+#	127573
+#	129110
+#	130469
+#	131958
+#	132777
+#
+# Disc length: 1765 seconds
+#
+# Revision: 1
+# Processed by: mb2freedb 0.9.2
+# Submitted via: mb2freedb 0.9.2 MusicBrainz FREEDB gateway
+#
+DISCID=001a97c3
+DTITLE=U.S. Citizenship and Immigration Services / Quick Civics Lessons for the Naturalization Test
+DYEAR=
+DGENRE=Unknown
+TTITLE0=What is the supreme law of the land?
+TTITLE1=What does the Constitution do?
+TTITLE2=The idea of self-government is in the first three words of the Constitution. What are these words?
+TTITLE3=What is an amendment?
+TTITLE4=What do we call the first ten amendments to the Constitution?
+TTITLE5=What is one right or freedom from the First Amendment?
+TTITLE6=How many amendments does the Constitution have?
+TTITLE7=What did the Declaration of Independence do?
+TTITLE8=What are two rights in the Declaration of Independence?
+TTITLE9=What is freedom of religion?
+TTITLE10=What is the economic system in the United States?
+TTITLE11=What is the “rule of law”?
+TTITLE12=Name one branch or part of the government.
+TTITLE13=What stops one branch of government from becoming too powerful?
+TTITLE14=Who is in charge of the executive branch?
+TTITLE15=Who makes federal laws?
+TTITLE16=What are the two parts of the U.S. Congress?
+TTITLE17=How many U.S. Senators are there?
+TTITLE18=We elect a U.S. Senator for how many years?
+TTITLE19=Who is one of your state’s U.S. Senators now?
+TTITLE20=The House of Representatives has how many voting members?
+TTITLE21=We elect a U.S. Representative for how many years?
+TTITLE22=Name your U.S. Representative.
+TTITLE23=Who does a U.S. Senator represent?
+TTITLE24=Why do some states have more Representatives than other states?
+TTITLE25=We elect a President for how many years?
+TTITLE26=In what month do we vote for President?
+TTITLE27=What is the name of the President of the United States now?
+TTITLE28=What is the name of the Vice President of the United States now?
+TTITLE29=If the President can no longer serve, who becomes President?
+TTITLE30=If both the President and the Vice President can no longer serve, who becomes President?
+TTITLE31=Who is the Commander in Chief of the military?
+TTITLE32=Who signs bills to become laws?
+TTITLE33=Who vetoes bills?
+TTITLE34=What does the President’s Cabinet do?
+TTITLE35=What are two Cabinet-level positions?
+TTITLE36=What does the judicial branch do?
+TTITLE37=What is the highest court in the United States?
+TTITLE38=How many justices are on the Supreme Court?
+TTITLE39=Who is the Chief Justice of the United States now?
+TTITLE40=Under our Constitution, some powers belong to the federal government. What is one power of the federal government?
+TTITLE41=Under our Constitution, some powers belong to the states. What is one power of the states?
+TTITLE42=Who is the Governor of your state now?
+TTITLE43=What is the capital of your state?
+TTITLE44=What are the two major political parties in the United States?
+TTITLE45=What is the political party of the President now?
+TTITLE46=What is the name of the Speaker of the House of Representatives now?
+TTITLE47=There are four amendments to the Constitution about who can vote. Describe one of them.
+TTITLE48=What is one responsibility that is only for United States citizens?
+TTITLE49=Name one right only for United States citizens.
+TTITLE50=What are two rights of everyone living in the United States?
+TTITLE51=What do we show loyalty to when we say the Pledge of Allegiance?
+TTITLE52=What is one promise you make when you become a United States citizen?
+TTITLE53=How old do citizens have to be to vote for President?
+TTITLE54=What are two ways that Americans can participate in their democracy?
+TTITLE55=When is the last day you can send in federal income tax forms?
+TTITLE56=When must all men register for the Selective Service?
+TTITLE57=What is one reason colonists came to America?
+TTITLE58=Who lived in America before the Europeans arrived?
+TTITLE59=What group of people was taken to America and sold as slaves?
+TTITLE60=Why did the colonists fight the British?
+TTITLE61=Who wrote the Declaration of Independence?
+TTITLE62=When was the Declaration of Independence adopted?
+TTITLE63=There were 13 original states. Name three.
+TTITLE64=What happened at the Constitutional Convention?
+TTITLE65=When was the Constitution written?
+TTITLE66=The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.
+TTITLE67=What is one thing Benjamin Franklin is famous for?
+TTITLE68=Who is the “Father of Our Country”?
+TTITLE69=Who was the first President?
+TTITLE70=What territory did the United States buy from France in 1803?
+TTITLE71=Name one war fought by the United States in the 1800s.
+TTITLE72=Name the U.S. war between the North and the South.
+TTITLE73=Name one problem that led to the Civil War.
+TTITLE74=What was one important thing that Abraham Lincoln did?
+TTITLE75=What did the Emancipation Proclamation do?
+TTITLE76=What did Susan B. Anthony do?
+TTITLE77=Name one war fought by the United States in the 1900s.
+TTITLE78=Who was President during World War I?
+TTITLE79=Who was President during the Great Depression and World War II?
+TTITLE80=Who did the United States fight in World War II?
+TTITLE81=Before he was President, Eisenhower was a general. What war was he in?
+TTITLE82=During the Cold War, what was the main concern of the United States?
+TTITLE83=What movement tried to end racial discrimination?
+TTITLE84=What did Martin Luther King, Jr. do?
+TTITLE85=What major event happened on September 11, 2001, in the United States?
+TTITLE86=Name one American Indian tribe in the United States.
+TTITLE87=Name one of the two longest rivers in the United States.
+TTITLE88=What ocean is on the West Coast of the United States?
+TTITLE89=What ocean is on the East Coast of the United States?
+TTITLE90=Name one U.S. territory.
+TTITLE91=Name one state that borders Canada.
+TTITLE92=Name one state that borders Mexico.
+TTITLE93=What is the capital of the United States?
+TTITLE94=Where is the Statue of Liberty?
+TTITLE95=Why does the flag have 13 stripes?
+TTITLE96=Why does the flag have 50 stars?
+TTITLE97=What is the name of the national anthem?
+TTITLE98=When do we celebrate Independence Day? / Name two national U.S. holidays.
+EXTD=
+EXTT0=
+EXTT1=
+EXTT2=
+EXTT3=
+EXTT4=
+EXTT5=
+EXTT6=
+EXTT7=
+EXTT8=
+EXTT9=
+EXTT10=
+EXTT11=
+EXTT12=
+EXTT13=
+EXTT14=
+EXTT15=
+EXTT16=
+EXTT17=
+EXTT18=
+EXTT19=
+EXTT20=
+EXTT21=
+EXTT22=
+EXTT23=
+EXTT24=
+EXTT25=
+EXTT26=
+EXTT27=
+EXTT28=
+EXTT29=
+EXTT30=
+EXTT31=
+EXTT32=
+EXTT33=
+EXTT34=
+EXTT35=
+EXTT36=
+EXTT37=
+EXTT38=
+EXTT39=
+EXTT40=
+EXTT41=
+EXTT42=
+EXTT43=
+EXTT44=
+EXTT45=
+EXTT46=
+EXTT47=
+EXTT48=
+EXTT49=
+EXTT50=
+EXTT51=
+EXTT52=
+EXTT53=
+EXTT54=
+EXTT55=
+EXTT56=
+EXTT57=
+EXTT58=
+EXTT59=
+EXTT60=
+EXTT61=
+EXTT62=
+EXTT63=
+EXTT64=
+EXTT65=
+EXTT66=
+EXTT67=
+EXTT68=
+EXTT69=
+EXTT70=
+EXTT71=
+EXTT72=
+EXTT73=
+EXTT74=
+EXTT75=
+EXTT76=
+EXTT77=
+EXTT78=
+EXTT79=
+EXTT80=
+EXTT81=
+EXTT82=
+EXTT83=
+EXTT84=
+EXTT85=
+EXTT86=
+EXTT87=
+EXTT88=
+EXTT89=
+EXTT90=
+EXTT91=
+EXTT92=
+EXTT93=
+EXTT94=
+EXTT95=
+EXTT96=
+EXTT97=
+EXTT98=
+PLAYORDER=
+.
